@@ -253,7 +253,7 @@ ampa.html
 
 
 ## OUTPUT
-![Output](mapss.png)
+![Output](Map.png)
 
 ![Output](1.png)
 ![Output](2.png)
